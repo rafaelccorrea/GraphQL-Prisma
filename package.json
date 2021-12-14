@@ -14,10 +14,13 @@
   "author": "Rafa Correa",
   "license": "ISC",
   "dependencies": {
+    "@nexus/schema": "^0.20.1",
     "@prisma/client": "^3.6.0",
     "apollo-server": "^2.19.0",
     "graphql": "^15.4.0",
     "mysql2": "^2.2.5",
+    "nexus": "^1.1.0",
+    "nexus-plugin-prisma": "^0.35.0",
     "nodemon": "^2.0.6",
     "sucrase": "^3.20.3",
     "yarn": "^1.22.17"
